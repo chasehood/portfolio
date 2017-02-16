@@ -1,0 +1,83 @@
+body {
+	background-image: url(boat.jpg);
+	background-position: cover;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: 'Josefin Sans', sans-serif;
+	color:white;
+	text-decoration: overline;
+
+}
+
+h1 {
+
+	font-size: 4em;
+	font-style: bold;
+}
+
+a{
+
+	text-decoration: none;
+	color: white;
+}
+
+h1, h2, h3 {
+
+	margin: 0em;
+}
+
+#container {
+	
+	width: 50em;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+#header {
+	
+	text-align: center;
+	padding: 0.625em;
+
+}
+
+#content {
+
+	padding: 0.625em;
+
+}
+
+#nav {
+
+	width: 11.25em;
+	float: left;
+
+}
+
+#nav ul {
+
+	list-style-type: none;
+	padding-left: 0em;
+
+}
+
+#nav .selected{
+
+	font-weight: none;
+}
+
+#main{
+
+	width: 37.5em;
+
+	float: right
+
+}
+
+#footer{
+
+	clear: both;
+	padding: 0.625em;
+	text-align: center;
+
+}

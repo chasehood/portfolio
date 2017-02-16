@@ -1,0 +1,60 @@
+.jumbotron{
+
+	text-align: center;
+	background-image: url(footer_lodyas.png);
+	color:white;
+
+}.btn{
+
+	background-color: white;
+	color:#999;
+
+}
+
+.jumbotron h1 {
+
+	font-family: 'Pacifico', cursive;
+	
+}
+
+.jumbotron h3 {
+
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
+
+footer {
+
+	background-color: #999999
+	width:100%;
+	height: auto;
+
+}
+
+footer ul li {
+
+	display:inline-block;
+	list-style: none;
+	padding:2%;
+	float: right;
+}
+
+footer p {
+
+	float: left;
+	padding: 2%;
+
+}
+
+footer a, footer p, {
+
+	color: #ffffff;
+	vertical-align: middle;
+
+}
+
+.row {
+
+	padding:2%;
+}
+
